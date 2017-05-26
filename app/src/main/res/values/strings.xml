@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CertainTextBoldDemo</string>
+    <string name="comment"><![CDATA[
+    <b>%1$s评语：</b>
+    ]]>%2$s</string>
+</resources>
